@@ -1,5 +1,5 @@
-# Máster en Formaciónd del Profesorado - 21/22
-## Aprendizaje y Enseñanza de la Tecnología <img src="logo.png" style="float: right;" alt="ULL" width="200"/>
+# Máster en Formación del Profesorado - 21/22
+## Aprendizaje y Enseñanza de la Tecnología <img src="logo.png" style="float: right;" alt="ULL" width="100"/>
 ---
 
 

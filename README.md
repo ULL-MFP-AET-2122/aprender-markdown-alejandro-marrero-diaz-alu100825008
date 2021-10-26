@@ -7,7 +7,7 @@ Alumno: **[Alejandro Marrero Díaz](https://campusdoctoradoyposgrado2122.ull.es/
 **Enlaces de contacto**:
 
 1. [LinkedIn](https://www.linkedin.com/in/alemarrero/) :briefcase:
-
+2. [Google Scholar](https://scholar.google.es/citations?hl=es&authuser=2&user=-E9F8KEAAAAJ) :school:
 
 
 

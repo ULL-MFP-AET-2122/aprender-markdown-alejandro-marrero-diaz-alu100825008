@@ -6,6 +6,7 @@
 
 
 Alumno: **[Alejandro Marrero Díaz](https://campusdoctoradoyposgrado2122.ull.es/user/profile.php?id=1156)** - [amarrerod](https://github.com/amarrerod)
+Puedes enviarme un *correo* a `let email: str = "alu0100825008@ull.edu.es"`
 
 *Cita favorita:*
 >A computer would deserve to be called intelligent if it could deceive a human into believing that it was human - Alan Turing

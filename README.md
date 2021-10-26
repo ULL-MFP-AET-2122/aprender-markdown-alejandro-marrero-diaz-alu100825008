@@ -4,6 +4,11 @@
 
 Alumno: **[Alejandro Marrero Díaz](https://campusdoctoradoyposgrado2122.ull.es/user/profile.php?id=1156)** - [amarrerod](https://github.com/amarrerod)
 
+*Cita favorita:*
+>A computer would deserve to be called intelligent if it could deceive a human into believing that it was human - Alan Turing
+
+
+---
 **Enlaces de contacto**:
 
 1. [LinkedIn](https://www.linkedin.com/in/alemarrero/) :briefcase:

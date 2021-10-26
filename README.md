@@ -4,6 +4,10 @@
 
 Alumno: **[Alejandro Marrero Díaz](https://campusdoctoradoyposgrado2122.ull.es/user/profile.php?id=1156)** - [amarrerod](https://github.com/amarrerod)
 
+**Enlaces de contacto**:
+
+1. [LinkedIn](https://www.linkedin.com/in/alemarrero/) :briefcase:
+
 
 
 
